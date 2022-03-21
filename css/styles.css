@@ -1,0 +1,36 @@
+h1{
+    color:cyan;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.welcometxt{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:100px;
+}
+.welcometxt h1 a{
+    font-weight: 700;
+}
+.skills-s,
+.welcometxt{
+    background-color: darkslateblue;
+}
+.skills-s{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+    padding:50px;    
+}
+.skills-s ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.fbase{
+    width:20px;
+    height:auto;
+}
+.git-a {
+    color:aqua
+}
